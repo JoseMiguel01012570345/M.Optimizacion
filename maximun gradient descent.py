@@ -26,11 +26,11 @@ import time
 
 # def gradient_descent(f,X0,Y0,epsilon,step):
    
-#    gradient=derivate(f,X0,Y0)
-#    gradientX=gradient[0]
-#    gradientY=gradient[1]
+#     gradient=derivate(f,X0,Y0)
+#     gradientX=gradient[0]
+#     gradientY=gradient[1]
 
-#    iterations=0
+#     iterations=0
 #     n=0
 #     next=(X0**6 + Y0**4-17)**2 + (2*X0+Y0-4)**2
 
@@ -54,10 +54,10 @@ import time
       
 #       iterations+=1      
 #       print("iteration: ",iterations)
-#        n=next
-#        next=(X0**6 + Y0**4-17)**2 + (2*X0+Y0-4)**2
+#       n=next
+#       next=(X0**6 + Y0**4-17)**2 + (2*X0+Y0-4)**2
 
-#    return (X0,Y0)
+#     return (X0,Y0)
 
 # # introduce iterval for X
 # print("iterval for X")
@@ -66,7 +66,7 @@ import time
 # print("maximum for X: ")
 # maxX=double(input())
 
-# introduce iterval for Y
+# # introduce iterval for Y
 # print("iterval for Y")
 # print("minimum for Y: ")
 # minY=double(input())
@@ -87,7 +87,9 @@ import time
 # x,y=symbols('x y')
 # f=(x**6 + y**4-17)**2 + (2*x+y-4)**2
 
+# resoult=gradient_descent(f,X0,Y0,epsilon=epsilon,step=step)
 
+# print("resoult: ",resoult)
 #-------------------------------------------------------------------------------
 #-------------------------------PROBLEM 171-----------------------------------------
 
