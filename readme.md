@@ -1,4 +1,4 @@
-# Modelo de Optimizacion:
+# Modelo de Optimización:
 
 ## Algoritmo del descenso máximo del gradiente
 
