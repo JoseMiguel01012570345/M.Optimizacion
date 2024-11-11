@@ -1,6 +1,6 @@
 # Modelo de Optimizacion:
 
-## Algoritmo del descenso maximo del gradiente
+## Algoritmo del descenso máximo del gradiente
 
 Para ejecutar este proyecto debe tener instalado 
 
@@ -9,4 +9,4 @@ numpy -> pip install numpy
 sympy -> pip install sympy
   ``` 
 
-El algoritmo resulve para funciones de 2 variables, pero se puede ampliar facilmente. Gracias...
+El algoritmo resuelve para funciones de 2 variables
